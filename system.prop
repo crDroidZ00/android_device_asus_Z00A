@@ -1,0 +1,8 @@
+#
+# System.prop for Asus Zenfone 2 Z551ML
+#
+
+# OTA Updates
+ro.ota.romname=crDroid Lollipop
+ro.ota.version=061015
+ro.ota.manifest=https://romhut.com/roms/crdroid-lollipop/ota.xml
