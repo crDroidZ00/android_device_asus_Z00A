@@ -1,4 +1,4 @@
 # OTA Updates
 ro.ota.romname=crDroid Lollipop
-ro.ota.version=171015
+ro.ota.version=311015
 ro.ota.manifest=https://romhut.com/roms/crdroid-lollipop/ota.xml
